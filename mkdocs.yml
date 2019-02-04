@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Christina's Travel Notes
+nav:
+  - Home: index.md
+  - East Coast: east-coast.md
+  - Midwest Cities: midwest-cities.md
+  - Wisconsin: wisconsin.md
+  - Pacific Northwest: pac-nw.md
+  - California: california.md
+  - British Isles: british-isles.md
+  - Hungary: hungary.md
+  - Other Europe: other-europe.md
+theme: readthedocs
