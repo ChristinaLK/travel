@@ -15,3 +15,15 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+        
+## Categories
+
+* museum
+* sights
+* outside
+* church
+* food
+* events
+* shopping (?)
+* stay
+* activities
