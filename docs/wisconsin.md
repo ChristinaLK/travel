@@ -12,7 +12,7 @@
 * **outside**: Olbrich Beer Garten
 * **events**: Concerts on the Square (summer)
 * **events**: Badger football @ Camp Randall (fall)
-    * Awesome Big 10 football experience. 
+    * Awesome Big 10 football experience. Stay for fifth quarter. 
 * **events/food**: Dane County Farmer's Market (summer)
     * Enormous farmer's market on Saturday mornings. More vegetable vendors
     than you could shake a stick at, but I usually buy flowers (most flower 
@@ -25,9 +25,11 @@
 * **food**: Med Cafe
     * On State Street, cash only, closed Mondays, the best Mediterranean food. 
     Also get the tea. MMMMM.
-* **food**: Lao Lang Xang
-    * Soup
+* **food**: [Lao Lang Xang][llx]
+    * Two words: Kang Gai. Savoury soup that is to die for. 
 * **food**: Tex Tubb's Taco Palace
+    * A favorite of my work colleagues; they've shrunk their menu but have 
+    good tacos, enormous nachos and excellent tortas. 
 * **food**: Natty's fast food
     * Neighborhood spot, with super tasty chicken wings and other good
      Mexican options
@@ -37,14 +39,20 @@
     * Out in Middleton, but is my pick for best cheese curds in town
 * **museum**: Mustard Museum
     * Only a 1-2 hour activity, but pretty fun.
+* **events**: Madison Mallards
+    * Summer college-level baseball league. All the schtick you could want 
+    from minor-league baseball, including t-shirt giveaways and the "beer 
+    batter" -- a player from the opposing team, who, if he strikes out, means 
+    that everyone gets 2 for 1 beers until the beginning of the next inning. 
 
 ### Also Seen
 
-* Graze, Cooper's Tavern, Tacqueria Guadalajara, Pancake House, Copper Pot 
-Family Restaurant
+* Graze, Cooper's Tavern, Tacqueria Guadalajara, Pancake Cafe, Copper Pot 
+Family Restaurant, Weary Traveler, Umami, Big 10 Pub, Tip Top Tavern
 * Outdoor movies (Edgewater + Terrace)
 * Olbrich Gardens (incl. orchid show, butterfly show)
 * Overture Center
+* The Majestic
 
 ### To See
 
@@ -76,4 +84,6 @@ Family Restaurant
 ### To See
 
 * **church/sights**: Holy Hill Monastary
+
+[llx]: https://www.laolaan-xang.com/menus
 
