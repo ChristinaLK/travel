@@ -12,7 +12,7 @@
 * Nepliget
 * Raday Utca
 * Buda Hills
-* Pancake House / Battyany Terr
+* Pancake House / Battyany Ter
 * City baths
 * Tram along the water
 * Shoes behind parliament
