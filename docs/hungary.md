@@ -1,7 +1,0 @@
-# Hungary
-
-## Budapest
-
-## Lake Balaton
-
-

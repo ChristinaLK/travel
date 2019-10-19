@@ -1,5 +1,0 @@
-# Canada
-
-## Toronto
-
-## Ottawa
