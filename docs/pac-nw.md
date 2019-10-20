@@ -59,4 +59,38 @@ grad student, but it was fun.
 
 ## Seattle
 
+### Recommendations
+
+* Pike Place Market
+* Ballard Locks
+* Gasworks Park
+* Fremont Troll
+* Monorail
+* Musical fountain
+* Living Computer museum
+* Experience Music Project (now has a different name)
+* Boeing Factory Tour
+* the Underground tour
+
+### Also seen
+
+* Space needle
+* Museum of Flight
+
+### Want to see
+
+* Chihuly Glass museum (?)
+
 ## Portland
+
+### Recommendations
+
+* OMSI
+* Rail Heritage Foundation
+* Holiday Express train ride
+* Powell's Books
+
+### Also seen
+
+* donuts, banh mi
+* yarn store
