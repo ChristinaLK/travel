@@ -91,6 +91,7 @@ Family Restaurant, Weary Traveler, Umami, Big 10 Pub, Tip Top Tavern
 * Villa Louis
 * Madeleine Island + the Apostle Islands
 * Drive along the Mississippi
+* More of Milwaukee! (architecture tour, art museum)
 
 ### Books
 
